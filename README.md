@@ -1,2 +1,4 @@
-# cloner-kill.py
-install
+# install 
+       apt update 
+       apt install python
+       
