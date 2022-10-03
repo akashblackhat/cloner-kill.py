@@ -1,0 +1,2 @@
+# cloner-kill.py
+install
